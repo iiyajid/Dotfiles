@@ -1,0 +1,16 @@
+music_directory "/run/media/issame/0C9E8F609E8F4166/Users/i/Music/"
+playlist_directory "/home/issame/.mpd/playlists"
+db_file "/home/issame/.mpd/mpd.db"
+log_file "/home/issame/.mpd/mpd.log"
+pid_file "/home/issame/.mpd/mpd.pid"
+state_file "/home/issame/.mpd/mpdstate"
+audio_output {
+	type "pulse"
+	name "Pulse audio output" 
+}
+audio_output {
+    type                    "fifo"
+    name                    "my_fifo"
+    path                    "/tmp/mpd.fifo"
+    format                  "44100:16:2"
+}

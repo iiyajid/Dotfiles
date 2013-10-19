@@ -1,0 +1,14 @@
+#!/bin/bash
+# ------------------------------------------------------------------
+#
+#  Scripts/updcount
+#  Description: Script for checking the number of updates available
+#  Author: Alex Sánchez <kniren@gmail.com>
+#
+# ------------------------------------------------------------------
+
+ICON="pacman.xbm"
+NUMBER=`yum list updates | wc -l`
+
+ICON='^i(/home/blk0/.xmonad/dzen/icons/xbm8x8/'"$ICON)"
+echo "$ICON $NUMBER"

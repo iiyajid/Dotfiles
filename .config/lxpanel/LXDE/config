@@ -1,0 +1,4 @@
+[Command]
+FileManager=pcmanfm %s
+Terminal=urxvt256c
+Logout=lxde-logout

@@ -1,0 +1,10 @@
+{
+   "df0sSkr4gOg4VK8d/NNTAWFtAN/MjCgPCJ5ml+ucdZE=": {
+      "created": 1381018722.512654,
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1412560607.437281,
+      "include_subdomains": false,
+      "mode": "force-https",
+      "static_spki_hashes": [  ]
+   }
+}

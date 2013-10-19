@@ -1,0 +1,255 @@
+sw_volume: 24
+audio_device_state:1:Pulse audio output
+audio_device_state:1:my_fifo
+state: pause
+current: 211
+time: 53
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: nan
+playlist_begin
+0:Music/FullMzc/02 02 Barzakh.mp3
+1:Music/FullMzc/03 03 Sadir.mp3
+2:Music/FullMzc/12 12 Le Belvédère assiégé.mp3
+3:Music/FullMzc/13 13 Oaf.mp3
+4:Music/FullMzc/04 04 Ronda.mp3
+5:Music/FullMzc/10 10 Kerkenah.mp3
+6:Music/FullMzc/11 11 La Nuit Des Yeux.mp3
+7:Music/FullMzc/05 05 Hou.mp3
+8:Music/FullMzc/06 06 Sarandib.mp3
+9:Music/FullMzc/08 08 Parfum De Gitane.mp3
+10:Music/FullMzc/09 09 Bou Naouara.mp3
+11:Music/Billy Bragg/And The Blokes England Half English 2002/01 St Monday.mp3
+12:Music/Billy Bragg/And The Blokes England Half English 2002/10 He'll Go Down.mp3
+13:Music/Billy Bragg/And The Blokes England Half English 2002/11 Dreadbelly.mp3
+14:Music/Billy Bragg/And The Blokes England Half English 2002/12 Tears Of My Tracks.mp3
+15:Music/Billy Bragg/And The Blokes England Half English 2002/02 Jane Allen.mp3
+16:Music/Billy Bragg/And The Blokes England Half English 2002/03 Distant Shore.mp3
+17:Music/Billy Bragg/And The Blokes England Half English 2002/04 England Half English.mp3
+18:Music/Billy Bragg/And The Blokes England Half English 2002/05 Npwa.mp3
+19:Music/Billy Bragg/And The Blokes England Half English 2002/06 Some Days I See The Point.mp3
+20:Music/Billy Bragg/And The Blokes England Half English 2002/07 Baby Faroukh.mp3
+21:Music/Billy Bragg/And The Blokes England Half English 2002/08 Take Down The Union Jack.mp3
+22:Music/Billy Bragg/And The Blokes England Half English 2002/09 Another Kind Of Judy.mp3
+23:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/01 Walt Whitman's Niece.mp3
+24:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/02 California Stars.mp3
+25:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/03 Way Over Yonder In The Minor Key.mp3
+26:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/04 Birds And Ships.mp3
+27:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/05 Hoodoo Voodoo.mp3
+28:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/06 She Came Along To Me.mp3
+29:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/07 At My Window Sad And Lonely.mp3
+30:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/08 Ingrid Bergman.mp3
+31:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/09 Christ For President.mp3
+32:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/10 I Guess I Planted.mp3
+33:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/11 One By One.mp3
+34:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/12 Eisler On The Go.mp3
+35:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/13 Hesitating Beauty.mp3
+36:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/14 Another Man's Done Gone.mp3
+37:Music/Billy Bragg/And Wilco Mermaid Avenue 1998/15 The Unwelcome Guest.mp3
+38:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/01 Airline To Heaven.mp3
+39:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/02 My Flying Saucer.mp3
+40:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/03 Feed Of Man.mp3
+41:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/04 Hot Rod Hotel.mp3
+42:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/05 I Was Born.mp3
+43:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/06 Secrets Of The Sea.mp3
+44:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/07 Stetson Kennedy.mp3
+45:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/08 Remember The Mountain Bed.mp3
+46:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/09 Blood Of The Lamb.mp3
+47:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/10 Aginst Th' Law.mp3
+48:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/11 All You Fascists.mp3
+49:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/12 Joe Dimaggio Done It Again.mp3
+50:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/13 Meanest Man.mp3
+51:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/14 Black Wind Blowing.mp3
+52:Music/Billy Bragg/And Wilco Mermaid Avenue Vol Ii 2000/15 Someday Some Morning Sometime.mp3
+53:Music/Billy Bragg/Billy Bragg and Wilco - Way Over Yonder in the Minor Key (1998)/02 My Thirty Thousand.mp3
+54:Music/Billy Bragg/Billy Bragg and Wilco - Way Over Yonder in the Minor Key (1998)/03 Bugeye Jim.mp3
+55:Music/Billy Bragg/Back To Basics 1987/01 The Milkman Of Human Kindness.mp3
+56:Music/Billy Bragg/Back To Basics 1987/02 To Have And To Have Not.mp3
+57:Music/Billy Bragg/Back To Basics 1987/03 Richard.mp3
+58:Music/Billy Bragg/Back To Basics 1987/04 Lovers Town Revisited.mp3
+59:Music/Billy Bragg/Back To Basics 1987/05 A New England.mp3
+60:Music/Billy Bragg/Back To Basics 1987/06 The Man In The Iron Mask.mp3
+61:Music/Billy Bragg/Back To Basics 1987/07 The Busy Girl Buys Beauty.mp3
+62:Music/Billy Bragg/Back To Basics 1987/08 It Says Here.mp3
+63:Music/Billy Bragg/Back To Basics 1987/09 Love Gets Dangerous.mp3
+64:Music/Billy Bragg/Back To Basics 1987/10 From A Vauxhall Velox.mp3
+65:Music/Billy Bragg/Back To Basics 1987/11 The Myth Of Trust.mp3
+66:Music/Billy Bragg/Back To Basics 1987/12 The Saturday Boy.mp3
+67:Music/Billy Bragg/Back To Basics 1987/13 Island Of No Return.mp3
+68:Music/Billy Bragg/Back To Basics 1987/14 This Guitar Says Sorry.mp3
+69:Music/Billy Bragg/Back To Basics 1987/15 Like Soldiers Do.mp3
+70:Music/Billy Bragg/Back To Basics 1987/16 St Swithin's Day.mp3
+71:Music/Billy Bragg/Back To Basics 1987/17 Strange Things Happen.mp3
+72:Music/Billy Bragg/Back To Basics 1987/18 A Lover Sings.mp3
+73:Music/Billy Bragg/Back To Basics 1987/19 Between The Wars.mp3
+74:Music/Billy Bragg/Back To Basics 1987/20 The World Turned Upside Down.mp3
+75:Music/Billy Bragg/Back To Basics 1987/21 Which Side Are You On.mp3
+76:Music/Billy Bragg/Don't Try This At Home 1991/01 Accident Waiting To Happen.mp3
+77:Music/Billy Bragg/Don't Try This At Home 1991/02 Moving The Goalposts.mp3
+78:Music/Billy Bragg/Don't Try This At Home 1991/03 Everywhere.mp3
+79:Music/Billy Bragg/Don't Try This At Home 1991/04 Cindy Of A Thousand Lives.mp3
+80:Music/Billy Bragg/Don't Try This At Home 1991/05 You Woke Up My Neighbourhood.mp3
+81:Music/Billy Bragg/Don't Try This At Home 1991/06 Trust.mp3
+82:Music/Billy Bragg/Don't Try This At Home 1991/07 God's Footballer.mp3
+83:Music/Billy Bragg/Don't Try This At Home 1991/08 The Few.mp3
+84:Music/Billy Bragg/Don't Try This At Home 1991/09 Sexuality.mp3
+85:Music/Billy Bragg/Don't Try This At Home 1991/10 Mother Of The Bride.mp3
+86:Music/Billy Bragg/Don't Try This At Home 1991/11 Tank Park Salute.mp3
+87:Music/Billy Bragg/Don't Try This At Home 1991/12 Dolphins.mp3
+88:Music/Billy Bragg/Don't Try This At Home 1991/13 North Sea Bubble.mp3
+89:Music/Billy Bragg/Don't Try This At Home 1991/14 Rumours Of War.mp3
+90:Music/Billy Bragg/Don't Try This At Home 1991/15 Wish You Were Her.mp3
+91:Music/Billy Bragg/Don't Try This At Home 1991/16 Body Of Water.mp3
+92:Music/Billy Bragg/Help Save The Youth Of America Live And Dubious 1988/02 Think Again.mp3
+93:Music/Billy Bragg/Help Save The Youth Of America Live And Dubious 1988/04 Days Like These.mp3
+94:Music/Billy Bragg/Help Save The Youth Of America Live And Dubious 1988/05 To Have And To Have Not.mp3
+95:Music/Billy Bragg/Reaching To The Converted 1999/12 Scholarship Is The Enemy Of Romance.mp3
+96:Music/Billy Bragg/Reaching To The Converted 1999/13 Wishing The Days Away.mp3
+97:Music/Billy Bragg/Reaching To The Converted 1999/14 The Tatler.mp3
+98:Music/Billy Bragg/Reaching To The Converted 1999/15 Jeane.mp3
+99:Music/Billy Bragg/Reaching To The Converted 1999/16 She's Leaving Home.mp3
+100:Music/Billy Bragg/Reaching To The Converted 1999/17 I Don't Need This Pressure Ron.mp3
+101:Music/Billy Bragg/Reaching To The Converted 1999/01 Shirley.mp3
+102:Music/Billy Bragg/Reaching To The Converted 1999/02 Sulk.mp3
+103:Music/Billy Bragg/Reaching To The Converted 1999/03 Accident Waiting To Happen.mp3
+104:Music/Billy Bragg/Reaching To The Converted 1999/04 The Boy Done Good.mp3
+105:Music/Billy Bragg/Reaching To The Converted 1999/05 Heart Like A Wheel.mp3
+106:Music/Billy Bragg/Reaching To The Converted 1999/06 Bad Penny.mp3
+107:Music/Billy Bragg/Reaching To The Converted 1999/07 Ontario Quebec And Me.mp3
+108:Music/Billy Bragg/Reaching To The Converted 1999/08 Walk Away Renee.mp3
+109:Music/Billy Bragg/Reaching To The Converted 1999/09 Rule Nor Reason.mp3
+110:Music/Billy Bragg/Reaching To The Converted 1999/10 Days Like These.mp3
+111:Music/Billy Bragg/Reaching To The Converted 1999/11 Think Again.mp3
+112:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/01 Greetings To The New Brunette.mp3
+113:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/02 Train Train.mp3
+114:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/03 The Marriage.mp3
+115:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/04 Ideology.mp3
+116:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/05 Levi Stubbs' Tears.mp3
+117:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/06 Honey I'm A Big Boy Now.mp3
+118:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/07 There Is Power In A Union.mp3
+119:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/08 Help Save The Youth Of America.mp3
+120:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/09 Wishing The Days Away.mp3
+121:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/10 The Passion.mp3
+122:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/11 The Warmest Room.mp3
+123:Music/Billy Bragg/Talking With The Taxman About Poetry 1986/12 The Home Front.mp3
+124:Music/Billy Bragg/The Boy Done Good 1997/01 The Boy Done Good.mp3
+125:Music/Billy Bragg/The Boy Done Good 1997/02 Sugardaddy.mp3
+126:Music/Billy Bragg/The Boy Done Good 1997/03 Never Had No One Ever.mp3
+127:Music/Billy Bragg/The Boy Done Good 1997/04 Run Out Of Reasons.mp3
+128:Music/Billy Bragg/The Internationale 1990/01 The Internationale.mp3
+129:Music/Billy Bragg/The Internationale 1990/02 I Dreamed I Saw Phil Ochs Last Night.mp3
+130:Music/Billy Bragg/The Internationale 1990/03 The Marching Song Of The Covert Battalions.mp3
+131:Music/Billy Bragg/The Internationale 1990/04 Blake's Jerusalem.mp3
+132:Music/Billy Bragg/The Internationale 1990/05 Nicaragua Nicaraguita.mp3
+133:Music/Billy Bragg/The Internationale 1990/06 The Red Flag.mp3
+134:Music/Billy Bragg/The Internationale 1990/07 My Youngest Son Came Home Today.mp3
+135:Music/Billy Bragg/William Bloke 1996/01 From Red To Blue.mp3
+136:Music/Billy Bragg/William Bloke 1996/02 Upfield.mp3
+137:Music/Billy Bragg/William Bloke 1996/03 Everybody Loves You Babe.mp3
+138:Music/Billy Bragg/William Bloke 1996/04 Sugardaddy.mp3
+139:Music/Billy Bragg/William Bloke 1996/05 A Pict Song.mp3
+140:Music/Billy Bragg/William Bloke 1996/06 Brickbat.mp3
+141:Music/Billy Bragg/William Bloke 1996/07 The Space Race Is Over.mp3
+142:Music/Billy Bragg/William Bloke 1996/08 Northern Industrial Town.mp3
+143:Music/Billy Bragg/William Bloke 1996/09 The Fourteenth Of February.mp3
+144:Music/Billy Bragg/William Bloke 1996/10 King James Version.mp3
+145:Music/Billy Bragg/William Bloke 1996/11 Goalhanger.mp3
+146:Music/Billy Bragg/Workers Playtime 1988/01 She's Got A New Spell.mp3
+147:Music/Billy Bragg/Workers Playtime 1988/02 Must I Paint You A Picture.mp3
+148:Music/Billy Bragg/Workers Playtime 1988/03 Tender Comrade.mp3
+149:Music/Billy Bragg/Workers Playtime 1988/04 The Price I Pay.mp3
+150:Music/Billy Bragg/Workers Playtime 1988/05 Little Time Bomb.mp3
+151:Music/Billy Bragg/Workers Playtime 1988/06 Rotting On Remand.mp3
+152:Music/Billy Bragg/Workers Playtime 1988/07 Valentine's Day Is Over.mp3
+153:Music/Billy Bragg/Workers Playtime 1988/08 Life With The Lions.mp3
+154:Music/Billy Bragg/Workers Playtime 1988/09 The Only One.mp3
+155:Music/Billy Bragg/Workers Playtime 1988/10 The Short Answer.mp3
+156:Music/Billy Bragg/Workers Playtime 1988/11 Waiting For The Great Leap Forwards.mp3
+157:Music/Billy Bragg/Help Save The Youth Of America Live And Dubious 1988/01 Help Save The Youth Of America.mp3
+158:Music/Billy Bragg/Help Save The Youth Of America Live And Dubious 1988/03 Chile Your Waters Run Red Through Soweto.mp3
+159:Music/Billy Bragg/Help Save The Youth Of America Live And Dubious 1988/06 There Is Power In A Union.mp3
+160:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/01 - Born In The U.S.A..mp3
+161:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/02 - Glory Days.mp3
+162:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/03 - Dancing In The Dark.mp3
+163:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/04 - Tunnel Of Love.mp3
+164:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/05 - Brilliant Disguise.mp3
+165:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/06 - Human Touch.mp3
+166:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/07 - Living Proof.mp3
+167:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/08 - Lucky Town.mp3
+168:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/09 - Streets Of Philadelphia.mp3
+169:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/10 - The Ghost Of Tom Joad.mp3
+170:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/11 - The Rising.mp3
+171:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/12 - Mary's Place.mp3
+172:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/13 - Lonesome Day.mp3
+173:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/14 - American Skin (41Shots) [Live].mp3
+174:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD2/15 - Land Of Hope And Dreams [Live].mp3
+175:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/01 - Blinded By The Light.mp3
+176:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/02 - For You.mp3
+177:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/03 - Spirit In The Night.mp3
+178:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/04 - 4th Of July, Asbury Park (Sandy).mp3
+179:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/05 - Rosalita (Come Out Tonight).mp3
+180:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/06 - Thunder Road.mp3
+181:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/07 - Born To Run.mp3
+182:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/08 - Jungleland.mp3
+183:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/09 - Badlands.mp3
+184:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/10 - Darkness On The Edge Of Town.mp3
+185:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/11 - The Promised Land.mp3
+186:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/12 - The River.mp3
+187:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/13 - Hungry Heart.mp3
+188:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/14 - Nebraska.mp3
+189:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD1/15 - Atlantic City.mp3
+190:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/01 - From Small Things (Big Things One Day Come).mp3
+191:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/02 - The Big Payback.mp3
+192:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/03 - Held Up Without A Gun [Live].mp3
+193:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/04 - Trapped [Live].mp3
+194:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/05 - None But The Brave.mp3
+195:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/06 - Missing.mp3
+196:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/07 - Lift Me Up.mp3
+197:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/08 - Viva Las Vegas.mp3
+198:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/09 - County Fair.mp3
+199:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/10 - Code Of Silence [Live].mp3
+200:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/11 - Dead Man Walkin'.mp3
+201:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/12 - Countin' On A Miracle (Acoustic).mp3
+202:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/13 - Pink Cadillac.mp3
+203:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/14 - Santa Claus Is Coming To Town [Live].mp3
+204:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/15 - Dancing In The Dark [Extended Remix].mp3
+205:Bruce Springsteen - Greatest Hits Essentials 3CD [Bubanee]/CD3/16 - Born In The USA [Freedom Mix].mp3
+206:Simon and Garfunkel's Greatest Hits/01 Mrs. Robinson.mp3
+207:Simon and Garfunkel's Greatest Hits/02 For Emily, Whenever I May Find Her.mp3
+208:Simon and Garfunkel's Greatest Hits/03 The Boxer.mp3
+209:Simon and Garfunkel's Greatest Hits/04 The 59th Street Bridge Song (Feelin' Groovy).mp3
+210:Simon and Garfunkel's Greatest Hits/05 The Sound of Silence.mp3
+211:Simon and Garfunkel's Greatest Hits/06 I Am a Rock.mp3
+212:Simon and Garfunkel's Greatest Hits/07 Scarborough Fair-Canticle.mp3
+213:Simon and Garfunkel's Greatest Hits/08 Homeward Bound.mp3
+214:Simon and Garfunkel's Greatest Hits/09 Bridge over Troubled Water.mp3
+215:Simon and Garfunkel's Greatest Hits/10 America.mp3
+216:Simon and Garfunkel's Greatest Hits/11 Kathy's Song.mp3
+217:Simon and Garfunkel's Greatest Hits/12 El Condor Pasa (If I Could).mp3
+218:Simon and Garfunkel's Greatest Hits/13 Bookends Theme.mp3
+219:Simon and Garfunkel's Greatest Hits/14 Cecilia.mp3
+220:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 01 - No Matter What.mp3
+221:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 02 - Day After Day.mp3
+222:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 03 - Baby Blue.mp3
+223:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 04 - Name of the Game.mp3
+224:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 05 - Maybe Tomorrow.mp3
+225:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 06 - Come and Get It.mp3
+226:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 07 - Rock of All Ages.mp3
+227:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 08 - Carry on Til Tomorrow.mp3
+228:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 09 - Midnight Caller.mp3
+229:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 10 - We're for the Dark.mp3
+230:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 11 - I'll Be the One.mp3
+231:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 12 - Without You.mp3
+232:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 13 - I'd Die Babe.mp3
+233:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 14 - It's Over.mp3
+234:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 15 - When I Say.mp3
+235:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 16 - Dennis.mp3
+236:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 17 - Lonely You.mp3
+237:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 18 - Love Time.mp3
+238:Badfinger - The Very Best Of Badfinger - Album (320)/Badfinger - 19 - Meanwhile, Back at the Ranch - Should I Smoke.mp3
+239:01 Survival.mp3
+playlist_end

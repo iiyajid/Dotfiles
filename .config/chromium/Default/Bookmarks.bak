@@ -1,0 +1,36 @@
+{
+   "checksum": "f554a3ff353c3364441c570ff081895e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13025492465889522",
+            "id": "4",
+            "name": "Adobe Flash Player 11.2 on Fedora 19/18, CentOS/RHEL 6.4/5.9",
+            "type": "url",
+            "url": "http://www.if-not-true-then-false.com/2010/install-adobe-flash-player-10-on-fedora-centos-red-hat-rhel/"
+         } ],
+         "date_added": "13025492019473330",
+         "date_modified": "13025492465889522",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13025492019473337",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13025492019473338",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
